@@ -1,0 +1,47 @@
+
+p{
+	text-align: center;
+	background-color: black;
+	font-weight: bold;
+	color: white;
+	font-size: 2em;
+	margin: 0px 200px;
+	margin-bottom: 10px;
+}
+
+body {
+	background-color: gray;
+}
+
+.stl {
+	background-color: white;
+	height: 210px;
+	width: 210px;
+	margin: 10px;
+	float: left;
+	margin: 5px 10px;
+	background-image: url('interrogacao.png');
+	background-size: 210px 210px;
+}
+
+#informacoes {
+	background-color: white;
+	margin: 0px 490px;
+	padding: 5px;
+}
+
+#p {
+	padding-left: 50px;
+}
+
+label{
+	font-size: 1em;
+	font-weight: bold;
+}
+
+#game{
+	border: solid gray; 
+	width: 75em; 
+	margin: 0px auto; 
+	margin-top: 10px;
+}
